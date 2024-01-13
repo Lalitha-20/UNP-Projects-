@@ -14,3 +14,4 @@ COLAB NOTEBOOK LINK:
 https://colab.research.google.com/drive/1L0BsfOZ9O20D5L_AAc0ONmEDFaGxhnhi?usp=sharing
 
 PROJECT PRESENTATION LINK:
+https://docs.google.com/presentation/d/1RMHOs-nhGfqtzAe2-mylJIZhFrpyCWTJ/edit?usp=drivesdk&ouid=114202744785086239227&rtpof=true&sd=true
